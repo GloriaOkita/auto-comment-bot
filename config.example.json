@@ -1,0 +1,12 @@
+{
+  "api_url": "填入你的AI API地址",
+  "api_key": "填入你的API Key",
+  "api_model": "模型名称，如 gpt-5.4",
+  "forum_base_url": "https://cp.baidu.com/forum",
+  "last_accounts_file": "账号信息.xlsx",
+  "last_post_file": "捣谷社区每日打标帖.xlsx",
+  "headless": true,
+  "delay_min": 1,
+  "delay_max": 3,
+  "save_interval": 5
+}
